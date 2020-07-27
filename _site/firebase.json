@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "public",
+    "site": "tiberiu-biking-blog",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
