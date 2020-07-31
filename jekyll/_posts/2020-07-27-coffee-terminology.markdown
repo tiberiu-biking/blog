@@ -2,7 +2,7 @@
 layout: post
 title:  "The chemistry of coffee"
 date:   2020-07-27 14:40:18 +0200
-categories:
+categories: coffee
 ---
 A very good explanation about the different terms related to coffee
 
