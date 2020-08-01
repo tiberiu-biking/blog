@@ -28,9 +28,30 @@ twitter_username: tiberiu_biking
 github_username:  tiberiu-biking
 
 # Build settings
-theme: minima
+# theme: minima
+theme: texture
 plugins:
   - jekyll-feed
+
+texture:
+  title: Tiberiu Biking
+  tagline: Software Engineer. And cyclist. And coffee lover. Also hiker.
+  date_format: "%b %-d, %Y"
+  style: black
+  social_links:
+      twitter: tiberiu_biking
+      github: tiberiu-biking
+  show_excerpts: true
+  showNav: true
+  navigation:
+    - title: Home
+      url: "/"
+    - title: Blog
+      url: "/blog"
+    - title: Photos
+      url: "/photos"
+    - title: About
+      url: "/about"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
