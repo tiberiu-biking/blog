@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Quotes"
+date:   2020-08-02 21:20:18 +0200
+categories: quotes
+tag: quotes
+---
+### Quotes
+
+Some of my favorite quotes
+
+“The conventional view serves to protect us from the painful job of thinking.”   
+“The only function of economic forecasting is to make astrology look respectable.”  
+“Under capitalism, man exploits man; while under socialism just the reverse is true.”  
+“I am worried about our tendency to over invest in things and under invest in people.”   
+“There are two kinds of forecasters: those who don’t know, and those who don’t know they don’t know.”  
+“Economics is extremely useful as a form of employment for economists.” 
+“Faced with the choice between changing one's mind and proving that there is no need to do so, almost everybody gets busy on the proof.”   
+― John Kenneth Galbraith 
