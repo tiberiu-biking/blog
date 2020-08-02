@@ -19,11 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tiberiu Biking Blog
+name: Tiberiu Biking Blog
 email: tiberiu.biking@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tiberiu Biking
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://tiberiu-biking-blog.web.app
 twitter_username: tiberiu_biking
 github_username:  tiberiu-biking
 
@@ -35,12 +36,13 @@ plugins:
 
 texture:
   title: Tiberiu Biking
-  tagline: Software Engineer. And cyclist. And coffee lover. Also hiker.
+  tagline: Software Engineer. And cyclist. And coffee lover. Also hiker and skier.
   date_format: "%b %-d, %Y"
   style: black
   social_links:
       twitter: tiberiu_biking
       github: tiberiu-biking
+      rss: rss
   show_excerpts: true
   showNav: true
   navigation:
