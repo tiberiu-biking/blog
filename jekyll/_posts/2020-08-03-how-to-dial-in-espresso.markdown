@@ -2,8 +2,8 @@
 layout: post
 title:  "How to espresso"
 date:   2020-08-02 11:47:18 +0200
-categories: quotes
-tag: quotes
+categories: ☕
+tag: ☕
 ---
 This is the best tutorial I found so far to dial-in and make a good espresso.
 

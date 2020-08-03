@@ -2,8 +2,8 @@
 layout: post
 title:  "Make Great Coffee with a Moka Pot"
 date:   2020-08-01 21:20:18 +0200
-categories: coffee
-tag: coffee
+categories: ☕
+tag: ☕
 ---
 Make Great Coffee with a Moka Pot
 
