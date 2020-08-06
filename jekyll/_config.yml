@@ -17,7 +17,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Tiberiu Biking Blog
 name: Tiberiu Biking Blog
 email: tiberiu.biking@gmail.com
@@ -33,6 +32,7 @@ github_username:  tiberiu-biking
 theme: texture
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 texture:
   title: Tiberiu Biking

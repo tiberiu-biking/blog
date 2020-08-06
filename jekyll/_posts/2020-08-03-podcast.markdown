@@ -7,6 +7,4 @@ tag: 🎙️
 ---
 Brené Brow and Alan Alda – on Empathy, Courage and Shame
 
-[Podcast on Spotify](https://open.spotify.com/episode/04uiFDb1KRL3aoHwR0PwiL?si=mj0GUK0XRnODtnf8pY5qFw)
-
-
+[Podcast on Spotify](spotify:episode:04uiFDb1KRL3aoHwR0PwiL)
