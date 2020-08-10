@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New speed machine"
+title:  "New Speed Machine"
 date:   2020-08-03 07:40:18 +0200
 categories: 🚴
 tag: 🚴

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to espresso"
+title:  "How to Espresso"
 date:   2020-08-02 11:47:18 +0200
 categories: ☕
 tag: ☕

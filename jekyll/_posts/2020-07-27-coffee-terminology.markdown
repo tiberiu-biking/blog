@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The chemistry of coffee"
+title:  "The Chemistry of Coffee"
 date:   2020-07-27 14:40:18 +0200
 categories: ☕
 tag: ☕
