@@ -7,7 +7,7 @@ permalink: /about/
 Cycling and coffee.  
 And hikes. Sometimes skiing.  
 Gravel is not a thing.  
-Cycling is a lifestyle.  
+Cycling is a lifestyle. And cheaper than therapy.  
 Part time vegetarian.  
 
 
